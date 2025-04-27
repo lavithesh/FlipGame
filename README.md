@@ -1,4 +1,7 @@
-# React + Vite
+# FLIP GAME
+![img alt](https://github.com/lavithesh/FlipGame/blob/master/Screenshot%20(315).png?raw=true)
+![img alt](https://github.com/lavithesh/FlipGame/blob/master/Screenshot%20(316).png?raw=true)
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

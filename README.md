@@ -5,7 +5,7 @@
 # Game Interface
 ![img alt](https://github.com/lavithesh/FlipGame/blob/master/Screenshot%20(316).png?raw=true)
 
-
+# React + vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:

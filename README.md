@@ -1,5 +1,35 @@
+<h1 align="center">Hi 👋, I'm Lavithesh</h1>
+<h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/3d246b34-c665-4b76-a39e-e185686dbdb5">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavithesh&label=Profile%20views&color=0e75b6&style=flat" alt="lavithesh" /> </p>
+
+<p align="left"> <a href="https://twitter.com/@lavithesh67291" target="blank"><img src="https://img.shields.io/twitter/follow/@lavithesh67291?logo=twitter&style=for-the-badge" alt="@lavithesh67291" /></a> </p>
+
+- 🔭 I’m currently working on [Flip Game](https://github.com/lavithesh/Shopping_Cart.git)
+
+- 🌱 I’m currently learning **Javascript**
+
+- 👨‍💻 All of my projects are available at [https://github.com/lavithesh/Shopping_Cart.git](https://github.com/lavithesh/Shopping_Cart.git)
+
+- 💬 Ask me about **JavaScript**
+
+- 📫 How to reach me **lavithesh7@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+
+
+
+
+
+
+
 # FLIP GAME 
+
+
 https://flip-game-liart.vercel.app/
+
+
+
 ![img alt](https://github.com/lavithesh/FlipGame/blob/master/Screenshot%20(315).png?raw=true)
 
 

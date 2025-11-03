@@ -1,4 +1,4 @@
-```
+
 <h1 align="center">Hi 👋, I'm Lavithesh</h1>
 <h3 align="center">💻 Full Stack & AI Developer from India 🇮🇳</h3>
 
@@ -64,7 +64,7 @@
 ---
 
 ## 🚀 How to Run Locally
-```
+
 1. **Clone the repository**
 ```bash
    git clone https://github.com/lavithesh/FlipGame.git
@@ -105,10 +105,10 @@ yaml
 Copy code
 
 ---
-
+```
 Would you like me to make it a little **shorter (for GitHub profile style)** or keep it **detailed like this (for project repository README)**?
 
-
+```
 
 
 
